@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <main className="flex min-h-screen flex-col gap-14 items-center justify-center p-24">
       {/* <Login /> */}
-      <h1 className="text-lg font-semibold md:text-7xl">
+      <h1 className="text-lg font-semibold text-center md:text-7xl">
         Your daily task tracker
       </h1>
       <Button>
